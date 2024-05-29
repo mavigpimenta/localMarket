@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "descricao": "Produto 1",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm3cExnsB3qat_a-YqS4zThCXsiR4TWk2f4_-Do7MXhw&s",
+    "preco": 10.0
+  },
+  {
+    "id": 2,
+    "descricao": "Produto 2",
+    "imagem": "https://storage.alboom.ninja/sites/7474/albuns/343827/fotografia-de-produtos-campinas-fotografo-publicidade-aloha-life-11.jpg?t=1541510096",
+    "preco": 20.0
+  },
+  {
+    "id": 3,
+    "descricao": "Produto 3",
+    "imagem": "https://acdn.mitiendanube.com/stores/002/062/747/products/locao-hidratante-desodorante-corporal-cuide-se-bem-bubbaloo-uva-400ml-11-1a5d88cb35d33bdf5916606961077673-1024-1024.png",
+    "preco": 30.0
+  },
+  {
+    "id": 4,
+    "descricao": "Produto 4",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm3cExnsB3qat_a-YqS4zThCXsiR4TWk2f4_-Do7MXhw&s",
+    "preco": 10.0
+  },
+  {
+    "id": 5,
+    "descricao": "Produto 5",
+    "imagem": "https://storage.alboom.ninja/sites/7474/albuns/343827/fotografia-de-produtos-campinas-fotografo-publicidade-aloha-life-11.jpg?t=1541510096",
+    "preco": 20.0
+  },
+  {
+    "id": 6,
+    "descricao": "Produto 6",
+    "imagem": "https://acdn.mitiendanube.com/stores/002/062/747/products/locao-hidratante-desodorante-corporal-cuide-se-bem-bubbaloo-uva-400ml-11-1a5d88cb35d33bdf5916606961077673-1024-1024.png",
+    "preco": 30.0
+  }
+]
